@@ -1,0 +1,9 @@
+.image_path, .image_path_edit{
+	width: 100px;
+	height: 100px;
+}
+
+.add-config, .add-config:hover{
+	background: #26B99A;
+}
+

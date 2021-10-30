@@ -1,0 +1,26 @@
+.load-data-product{
+	display: block; 
+	text-align: center;
+	margin-bottom: 10px;
+}
+.load-data-product button{
+	background: #2123e6;
+	border: none;
+	border-radius: 2px;
+	padding: 5px 20px;
+	color: white;
+}
+
+.totalCart{
+	position: absolute;
+    top: -5px;
+    right: -9px;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cart_product {
+    display: block;
+    margin: 0;
+}
